@@ -1,0 +1,17 @@
+.navbar{
+    font-family: 'Playfair Display', serif;
+    border-bottom: 6px solid #dfee96;
+    
+}
+#firstl{
+    font-size: 2em;
+}
+
+#navbarNav{
+    margin-left: 250px;
+    
+    
+}
+li{
+padding-inline-start: 40px;
+}
